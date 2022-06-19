@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MovementSpeed.cs" />
+    <Compile Include="Assets\script\CameraFollow.cs" />
     <Compile Include="Assets\script\DialogSystem.cs" />
     <Compile Include="Assets\script\TriggerNPC.cs" />
   </ItemGroup>
